@@ -74,10 +74,11 @@ main {
   background-color: #ebebeb;
   color: #2f2f2f;
   border-radius: 15px;
+  width: 100%;
 }
 
 .students div {
-  width: 100%;
+ 
   padding: 10px;
   text-align: center;
 }
